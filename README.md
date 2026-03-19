@@ -81,8 +81,8 @@ Atualmente, estou evoluindo através de projetos reais, buscando sempre escrever
 
 ## 📫 Contato
 
-- 💼 LinkedIn: COLOQUE_AQUI  
-- 📧 Email: SEU_EMAIL_AQUI  
+- 💼 LinkedIn:  https://www.linkedin.com/in/josue-soares-dev 
+- 📧 Email: josue.bezerra.2020@gmail.com  
 
 ---
 
