@@ -1,7 +1,9 @@
 # 👋 Olá, eu sou Josué
 
-💻 Desenvolvedor Fullstack com foco na construção de sistemas e APIs robustas  
-🚀 Transformando problemas reais em soluções escaláveis através de software  
+💻 Desenvolvedor Fullstack focado em APIs, regras de negócio e sistemas escaláveis  
+🚀 Construindo soluções reais com Node.js, PostgreSQL e arquitetura em camadas  
+
+🔥 Focado em oportunidades como Desenvolvedor Fullstack Júnior
 
 ---
 
@@ -9,9 +11,9 @@
 
 Desenvolvedor com experiência prática na construção de aplicações completas, atuando desde a modelagem de banco de dados até a implementação de regras de negócio e APIs.
 
-Tenho foco em backend e arquitetura de sistemas, mas também desenvolvo interfaces modernas e funcionais no frontend.
+Tenho foco em backend e arquitetura de sistemas, desenvolvendo soluções organizadas, escaláveis e preparadas para cenários reais. Também possuo experiência com frontend, criando interfaces modernas e funcionais.
 
-Atualmente, estou evoluindo através de projetos reais, buscando sempre escrever código limpo, escalável e preparado para cenários de produção.
+Atualmente, estou evoluindo através de projetos práticos, com foco em resolver problemas reais e escrever código limpo e manutenível.
 
 ---
 
@@ -20,51 +22,53 @@ Atualmente, estou evoluindo através de projetos reais, buscando sempre escrever
 ### 🏭 Sistema ERP de Produção (Autoflex)
 **Fullstack | Next.js, Node.js, PostgreSQL**
 
-- 🧠 **Lógica de Negócio:** Desenvolvimento de algoritmo de alocação de recursos que interrompe produção por falta de insumos e prioriza produtos com maior retorno
+- 🧠 **Lógica de Negócio:** Algoritmo de alocação de recursos que interrompe produção por falta de insumos e prioriza produtos com maior retorno
 
 - 📊 **Simulação:** Implementação de cenários "what-if" com atualização em tempo real, sem persistência no banco
 
-- ⚙️ **Arquitetura:** Backend estruturado em camadas (Controller, Service, Model), garantindo organização e escalabilidade
+- ⚙️ **Arquitetura:** Backend estruturado em camadas (Controller, Service, Model)
 
-- 🗄️ **Banco de Dados:** Modelagem relacional com associações N:N entre produtos e matérias-primas utilizando Sequelize
+- 🗄️ **Banco de Dados:** Modelagem relacional com associações N:N utilizando Sequelize
 
 - 📈 **Métricas:** Cálculo dinâmico de produção, valor potencial e lucro estimado
 
-🔗 Link do projeto: COLOQUE_AQUI
-
+🔗 Front-end: https://github.com/josuesoares64/front-end-autoflex
+🔗 Back-end: https://github.com/josuesoares64/teste-autoflex
 ---
 
 ### 🚀 Plataforma SaaS para Barbearias
 **Fullstack | Node.js, PostgreSQL**
 
-- 📅 **Agendamentos:** Implementação de lógica para validação de disponibilidade e prevenção de conflitos de horários
+- 📅 **Agendamentos:** Validação de disponibilidade e prevenção de conflitos de horários
 
-- ⚙️ **Arquitetura:** Organização em camadas com centralização de regras de negócio na camada de Service
+- ⚙️ **Arquitetura:** Regras de negócio centralizadas na camada de Service
 
-- 🔗 **API REST:** Desenvolvimento de endpoints como `/barbershops/:slug/availability`
+- 🔗 **API REST:** Endpoint de disponibilidade (`/barbershops/:slug/availability`)
 
-- 🗄️ **Modelagem:** Estrutura com múltiplas entidades (usuários, serviços, clientes, agendamentos) e associações complexas
+- 🗄️ **Modelagem:** Entidades complexas com múltiplas associações
 
-- 🏗️ **Escalabilidade:** Preparação do sistema para evolução em modelo SaaS (multi-tenant)
+- 🏗️ **Escalabilidade:** Estrutura preparada para modelo SaaS (multi-tenant)
 
-🔗 Link do projeto: COLOQUE_AQUI
+🔗 Front-end: https://github.com/josuesoares64/barbearia_web
+🔗 Back-end: https://github.com/josuesoares64/barbearia_back
 
 ---
 
 ### 🍕 Pizzaria Web (Bella Pizza)
 **Fullstack | Next.js, TypeScript, Node.js**
 
-- 🛒 **Sistema de Pedidos:** CRUD completo de produtos integrado ao frontend
+- 🛒 **Sistema de Pedidos:** CRUD completo integrado ao frontend
 
-- 🖼️ **Upload de Imagens:** Organização por categorias com persistência no banco
+- 🖼️ **Upload:** Organização de imagens por categoria com persistência
 
-- 🔎 **Busca:** Implementação de filtros parciais e completos por nome
+- 🔎 **Busca:** Filtros parciais e completos por nome
 
-- 🔐 **Tipagem:** Uso de TypeScript para maior segurança e previsibilidade
+- 🔐 **Tipagem:** Uso de TypeScript para maior segurança
 
-- 🌐 **Integração:** Consumo de API com tratamento de erros e validações
+- 🌐 **Integração:** Consumo de API com validação e tratamento de erros
 
-🔗 Link do projeto: COLOQUE_AQUI
+🔗 Front-end: https://github.com/josuesoares64/pizzaria-web
+🔗 Back-end: https://github.com/josuesoares64/back-end-pizzaria
 
 ---
 
@@ -79,16 +83,24 @@ Atualmente, estou evoluindo através de projetos reais, buscando sempre escrever
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=dark)
+
+---
+
 ## 📫 Contato
 
-- 💼 LinkedIn:  https://www.linkedin.com/in/josue-soares-dev 
+- 💼 LinkedIn: https://www.linkedin.com/in/josue-soares-dev  
 - 📧 Email: josue.bezerra.2020@gmail.com  
 
 ---
 
 ## ⚡ Diferenciais
 
-- Estruturação de projetos com arquitetura em camadas  
+- Arquitetura em camadas bem definida (Controller, Service, Model)  
 - Implementação de regras de negócio reais (não apenas CRUD)  
 - Foco em escalabilidade e organização de código  
-- Evolução constante através de projetos práticos
+- Evolução contínua baseada em projetos práticos  
