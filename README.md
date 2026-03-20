@@ -32,8 +32,8 @@ Atualmente, estou evoluindo através de projetos práticos, com foco em resolver
 
 - 📈 **Métricas:** Cálculo dinâmico de produção, valor potencial e lucro estimado
 
-🔗 Front-end: https://github.com/josuesoares64/front-end-autoflex
-🔗 Back-end: https://github.com/josuesoares64/teste-autoflex
+- 🔗 Front-end: https://github.com/josuesoares64/front-end-autoflex
+- 🔗 Back-end: https://github.com/josuesoares64/teste-autoflex
 ---
 
 ### 🚀 Plataforma SaaS para Barbearias
@@ -49,8 +49,8 @@ Atualmente, estou evoluindo através de projetos práticos, com foco em resolver
 
 - 🏗️ **Escalabilidade:** Estrutura preparada para modelo SaaS (multi-tenant)
 
-🔗 Front-end: https://github.com/josuesoares64/barbearia_web
-🔗 Back-end: https://github.com/josuesoares64/barbearia_back
+- 🔗 Front-end: https://github.com/josuesoares64/barbearia_web
+- 🔗 Back-end: https://github.com/josuesoares64/barbearia_back
 
 ---
 
@@ -67,8 +67,8 @@ Atualmente, estou evoluindo através de projetos práticos, com foco em resolver
 
 - 🌐 **Integração:** Consumo de API com validação e tratamento de erros
 
-🔗 Front-end: https://github.com/josuesoares64/pizzaria-web
-🔗 Back-end: https://github.com/josuesoares64/back-end-pizzaria
+- 🔗 Front-end: https://github.com/josuesoares64/pizzaria-web
+- 🔗 Back-end: https://github.com/josuesoares64/back-end-pizzaria
 
 ---
 
