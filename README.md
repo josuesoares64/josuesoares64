@@ -78,8 +78,7 @@ Atualmente, evoluo através de projetos práticos focados em resolver problemas 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=josuesoares64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josuesoares64&show_icons=true&theme=tokyonight"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuesoares64&layout=compact&theme=tokyonight&hide=python"/>
 
 </div>
